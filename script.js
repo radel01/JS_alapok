@@ -42,7 +42,7 @@ function elemekFormazasa1(){
 
 function esemenyKezeles1(){
     const ELEM=document.getElementsByClassName("lista")[0]
-    ELEM.addEventListener("esemeny", fvenynev).
+    ELEM.addEventListener("esemeny", fvenynev)
 }
 
 function elemekElerese7(){
